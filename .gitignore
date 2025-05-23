@@ -2,11 +2,11 @@ database.py
 
 
 # Python
-__pycache__/
-*.py[cod]
-*.so
-*.egg
-*.egg-info/
+**/__pycache__/
+**/*.py[cod]
+**/*.so
+**/*.egg
+**/*.egg-info/
 dist/
 build/
 

@@ -3,3 +3,5 @@ uvicorn
 transformers
 sqlalchemy
 pymysql
+python-dotenv
+openai
